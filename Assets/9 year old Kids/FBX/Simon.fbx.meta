@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: ac64f8d0d6239b843be878aabd8f31ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Inner_Mouth
+    100002: //RootNode
+    100004: Simon_Body_mesh
+    100006: Simon_eyeball
+    100008: Simon_eyeball_l
+    100010: Simon_eyeball_r
+    100012: Simon_Hair_mesh
+    100014: Simon_lower_teeth
+    100016: Simon_Pant_low
+    100018: Simon_shoes_l
+    100020: Simon_shoes_r
+    100022: Simon_Tshirt
+    100024: Simon_upper_teeth
+    400000: Inner_Mouth
+    400002: //RootNode
+    400004: Simon_Body_mesh
+    400006: Simon_eyeball
+    400008: Simon_eyeball_l
+    400010: Simon_eyeball_r
+    400012: Simon_Hair_mesh
+    400014: Simon_lower_teeth
+    400016: Simon_Pant_low
+    400018: Simon_shoes_l
+    400020: Simon_shoes_r
+    400022: Simon_Tshirt
+    400024: Simon_upper_teeth
+    2100000: Simon_Body
+    2100002: Simon_Cloth
+    2100004: Simon_skullcap
+    2100006: Simon_Hair
+    2100008: Simon_Shoes
+    2100010: Simon_Eye
+    2100012: Simon_Inner_mouth
+    2300000: Simon_Body_mesh
+    2300002: Simon_eyeball_l
+    2300004: Simon_eyeball_r
+    2300006: Simon_Hair_mesh
+    2300008: Simon_lower_teeth
+    2300010: Simon_Pant_low
+    2300012: Simon_shoes_l
+    2300014: Simon_shoes_r
+    2300016: Simon_Tshirt
+    2300018: Simon_upper_teeth
+    3300000: Simon_Body_mesh
+    3300002: Simon_eyeball_l
+    3300004: Simon_eyeball_r
+    3300006: Simon_Hair_mesh
+    3300008: Simon_lower_teeth
+    3300010: Simon_Pant_low
+    3300012: Simon_shoes_l
+    3300014: Simon_shoes_r
+    3300016: Simon_Tshirt
+    3300018: Simon_upper_teeth
+    4300000: Simon_Body_mesh
+    4300002: Simon_Pant_low
+    4300004: Simon_Tshirt
+    4300006: Simon_Hair_mesh
+    4300008: Simon_shoes_l
+    4300010: Simon_shoes_r
+    4300012: Simon_eyeball_l
+    4300014: Simon_eyeball_r
+    4300016: Simon_upper_teeth
+    4300018: Simon_lower_teeth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Body
+    second: {fileID: 2100000, guid: 822c6f4324da67a47a00e568aed0bdbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Cloth
+    second: {fileID: 2100000, guid: 3c1f975439bdda648acd31f110541df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Eye
+    second: {fileID: 2100000, guid: b02158f8fb5450c42b9cd6a5b90a0703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Hair
+    second: {fileID: 2100000, guid: 5fe78624855b806498380807f0f5023e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Inner_mouth
+    second: {fileID: 2100000, guid: 52fae3398d8e2274ab1ca61b00cca726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_Shoes
+    second: {fileID: 2100000, guid: 5f980c669365eee459aab02b6efbf9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Simon_skullcap
+    second: {fileID: 2100000, guid: 9a8d945cd589d3d49bd0fe9b94646e64, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

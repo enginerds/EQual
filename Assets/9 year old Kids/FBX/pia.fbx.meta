@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 7f5a0b2e4c12f144fb23291a5b6e6b85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pia_Body_mesh
+    100004: Pia_Eye
+    100006: Pia_eyeball_l_mesh
+    100008: Pia_eyeball_r_mesh
+    100010: Pia_eyecorner_l_mesh
+    100012: Pia_eyecorner_r_mesh
+    100014: Pia_eyelash_l_mesh
+    100016: Pia_eyelash_r_mesh
+    100018: Pia_Face_mesh
+    100020: Pia_hair
+    100022: Pia_Inner_Mouth
+    100024: Pia_lower_teeth
+    100026: Pia_Pant_mesh
+    100028: Pia_shoe_l_mesh
+    100030: Pia_shoe_r_mesh
+    100032: Pia_Top_mesh
+    100034: Pia_upper_teeth
+    400000: //RootNode
+    400002: Pia_Body_mesh
+    400004: Pia_Eye
+    400006: Pia_eyeball_l_mesh
+    400008: Pia_eyeball_r_mesh
+    400010: Pia_eyecorner_l_mesh
+    400012: Pia_eyecorner_r_mesh
+    400014: Pia_eyelash_l_mesh
+    400016: Pia_eyelash_r_mesh
+    400018: Pia_Face_mesh
+    400020: Pia_hair
+    400022: Pia_Inner_Mouth
+    400024: Pia_lower_teeth
+    400026: Pia_Pant_mesh
+    400028: Pia_shoe_l_mesh
+    400030: Pia_shoe_r_mesh
+    400032: Pia_Top_mesh
+    400034: Pia_upper_teeth
+    2100000: Pia_Inner_mouth
+    2100002: Pia_eyeball
+    2100004: Pia_Eyelashes
+    2100006: Pia_Body
+    2100008: Pia_Hair
+    2100010: Pia_Pant
+    2100012: Pia_Top
+    2100014: Pia_shoes
+    2300000: Pia_Body_mesh
+    2300002: Pia_eyeball_l_mesh
+    2300004: Pia_eyeball_r_mesh
+    2300006: Pia_eyecorner_l_mesh
+    2300008: Pia_eyecorner_r_mesh
+    2300010: Pia_eyelash_l_mesh
+    2300012: Pia_eyelash_r_mesh
+    2300014: Pia_Face_mesh
+    2300016: Pia_hair
+    2300018: Pia_lower_teeth
+    2300020: Pia_Pant_mesh
+    2300022: Pia_shoe_l_mesh
+    2300024: Pia_shoe_r_mesh
+    2300026: Pia_Top_mesh
+    2300028: Pia_upper_teeth
+    3300000: Pia_Body_mesh
+    3300002: Pia_eyeball_l_mesh
+    3300004: Pia_eyeball_r_mesh
+    3300006: Pia_eyecorner_l_mesh
+    3300008: Pia_eyecorner_r_mesh
+    3300010: Pia_eyelash_l_mesh
+    3300012: Pia_eyelash_r_mesh
+    3300014: Pia_Face_mesh
+    3300016: Pia_hair
+    3300018: Pia_lower_teeth
+    3300020: Pia_Pant_mesh
+    3300022: Pia_shoe_l_mesh
+    3300024: Pia_shoe_r_mesh
+    3300026: Pia_Top_mesh
+    3300028: Pia_upper_teeth
+    4300000: Pia_upper_teeth
+    4300002: Pia_lower_teeth
+    4300004: Pia_eyeball_l_mesh
+    4300006: Pia_eyeball_r_mesh
+    4300008: Pia_eyelash_l_mesh
+    4300010: Pia_eyelash_r_mesh
+    4300012: Pia_eyecorner_r_mesh
+    4300014: Pia_eyecorner_l_mesh
+    4300016: Pia_hair
+    4300018: Pia_Face_mesh
+    4300020: Pia_Body_mesh
+    4300022: Pia_Pant_mesh
+    4300024: Pia_Top_mesh
+    4300026: Pia_shoe_l_mesh
+    4300028: Pia_shoe_r_mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Body
+    second: {fileID: 2100000, guid: c47c984e42564154fbfe157c9c869435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Eyelashes
+    second: {fileID: 2100000, guid: b4ec7c5d087b77b4bbba613e018bc872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Hair
+    second: {fileID: 2100000, guid: c620df287169b8848b5b83728a82c684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Inner_mouth
+    second: {fileID: 2100000, guid: 0c4475ae6cf41594f9f011d66bc65c75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Pant
+    second: {fileID: 2100000, guid: 78aa06e3c949ddd4bb0655f60ed94db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_Top
+    second: {fileID: 2100000, guid: 1da70c26a2fd5a7499c941c55e6b51c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_eyeball
+    second: {fileID: 2100000, guid: 65ff74451cbfdf24da5eac63e4f34f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia_shoes
+    second: {fileID: 2100000, guid: 574c8cd257a5a604b959af8a5bd6ae76, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: bbf7c5a4d9e298c49b52399f82a6e7d3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Finn_Body_grp
+    100004: Finn_Body_mesh
+    100006: Finn_Eye_grp
+    100008: Finn_Eye_l
+    100010: Finn_Eye_r
+    100012: Finn_eyelashes_mesh
+    100014: Finn_Hair_mesh
+    100016: Finn_lower_teeth
+    100018: Finn_pant
+    100020: Finn_shirt
+    100022: Finn_Shoes_l
+    100024: Finn_Shoes_r
+    100026: Finn_upper_teeth
+    100028: Inner_Mouth
+    100030: polySurface3
+    100032: polySurface7
+    400000: //RootNode
+    400002: Finn_Body_grp
+    400004: Finn_Body_mesh
+    400006: Finn_Eye_grp
+    400008: Finn_Eye_l
+    400010: Finn_Eye_r
+    400012: Finn_eyelashes_mesh
+    400014: Finn_Hair_mesh
+    400016: Finn_lower_teeth
+    400018: Finn_pant
+    400020: Finn_shirt
+    400022: Finn_Shoes_l
+    400024: Finn_Shoes_r
+    400026: Finn_upper_teeth
+    400028: Inner_Mouth
+    400030: polySurface3
+    400032: polySurface7
+    2100000: Finn_Inner_mouth
+    2100002: Finn_Body
+    2100004: Finn_Eye
+    2100006: Finn_Hair
+    2100008: Finn_Tshirt
+    2100010: Finn_Pant
+    2100012: Finn_Shoe
+    2100014: Finn_eyelashes
+    2300000: Finn_Body_mesh
+    2300002: Finn_Eye_l
+    2300004: Finn_Eye_r
+    2300006: Finn_eyelashes_mesh
+    2300008: Finn_Hair_mesh
+    2300010: Finn_lower_teeth
+    2300012: Finn_pant
+    2300014: Finn_shirt
+    2300016: Finn_Shoes_l
+    2300018: Finn_Shoes_r
+    2300020: Finn_upper_teeth
+    2300022: polySurface3
+    2300024: polySurface7
+    3300000: Finn_Body_mesh
+    3300002: Finn_Eye_l
+    3300004: Finn_Eye_r
+    3300006: Finn_eyelashes_mesh
+    3300008: Finn_Hair_mesh
+    3300010: Finn_lower_teeth
+    3300012: Finn_pant
+    3300014: Finn_shirt
+    3300016: Finn_Shoes_l
+    3300018: Finn_Shoes_r
+    3300020: Finn_upper_teeth
+    3300022: polySurface3
+    3300024: polySurface7
+    4300000: Finn_lower_teeth
+    4300002: polySurface3
+    4300004: polySurface7
+    4300006: Finn_Eye_r
+    4300008: Finn_Eye_l
+    4300010: Finn_Hair_mesh
+    4300012: Finn_shirt
+    4300014: Finn_pant
+    4300016: Finn_Shoes_l
+    4300018: Finn_Shoes_r
+    4300020: Finn_upper_teeth
+    4300022: Finn_eyelashes_mesh
+    4300024: Finn_Body_mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Body
+    second: {fileID: 2100000, guid: 3bf615d92f3edef46ae21eaef79515a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Eye
+    second: {fileID: 2100000, guid: cb878bf057d783a48b9d9be50ff70890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Hair
+    second: {fileID: 2100000, guid: 9a2dce7bc4357484292e2ba891b27b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Inner_mouth
+    second: {fileID: 2100000, guid: 442c9652edbb4904a804daed0d850500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Pant
+    second: {fileID: 2100000, guid: 07963815324d8bf4baabd8db00f73807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Shoe
+    second: {fileID: 2100000, guid: d6c1f452a4573584dbca23ba3611c8a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_Tshirt
+    second: {fileID: 2100000, guid: 28d939f894b9a1349a2ed6de949a1464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finn_eyelashes
+    second: {fileID: 2100000, guid: db63734b2c719fa4f9938141c80c5a66, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

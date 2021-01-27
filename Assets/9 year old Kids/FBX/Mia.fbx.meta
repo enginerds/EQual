@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 77bf0b3e7dbafde4d971a2f9bb9ffbd3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Inner_Mouth
+    100002: //RootNode
+    100004: mia_body_Mesh
+    100006: mia_cloth_Mesh
+    100008: mia_hair_Mesh
+    100010: mia_Hannah_corner_Mesh
+    100012: mia_l_Eye_Mesh
+    100014: mia_l_eyelashes_Mesh
+    100016: mia_l_shoe_Mesh
+    100018: mia_lower_teeth_Mesh
+    100020: mia_r_Eye_Mesh
+    100022: mia_r_eyelashes_Mesh
+    100024: mia_r_shoe_Mesh
+    100026: mia_upper_teeth_Mesh
+    400000: Inner_Mouth
+    400002: //RootNode
+    400004: mia_body_Mesh
+    400006: mia_cloth_Mesh
+    400008: mia_hair_Mesh
+    400010: mia_Hannah_corner_Mesh
+    400012: mia_l_Eye_Mesh
+    400014: mia_l_eyelashes_Mesh
+    400016: mia_l_shoe_Mesh
+    400018: mia_lower_teeth_Mesh
+    400020: mia_r_Eye_Mesh
+    400022: mia_r_eyelashes_Mesh
+    400024: mia_r_shoe_Mesh
+    400026: mia_upper_teeth_Mesh
+    2100000: Mia_Inner_mouth
+    2100002: Mia_Eyelashes
+    2100004: Mia_Body
+    2100006: Mia_Eyeball
+    2100008: Mia_Hair
+    2100010: Mia_Cloth
+    2100012: Mia_shoes
+    2300000: mia_body_Mesh
+    2300002: mia_cloth_Mesh
+    2300004: mia_hair_Mesh
+    2300006: mia_Hannah_corner_Mesh
+    2300008: mia_l_Eye_Mesh
+    2300010: mia_l_eyelashes_Mesh
+    2300012: mia_l_shoe_Mesh
+    2300014: mia_lower_teeth_Mesh
+    2300016: mia_r_Eye_Mesh
+    2300018: mia_r_eyelashes_Mesh
+    2300020: mia_r_shoe_Mesh
+    2300022: mia_upper_teeth_Mesh
+    3300000: mia_body_Mesh
+    3300002: mia_cloth_Mesh
+    3300004: mia_hair_Mesh
+    3300006: mia_Hannah_corner_Mesh
+    3300008: mia_l_Eye_Mesh
+    3300010: mia_l_eyelashes_Mesh
+    3300012: mia_l_shoe_Mesh
+    3300014: mia_lower_teeth_Mesh
+    3300016: mia_r_Eye_Mesh
+    3300018: mia_r_eyelashes_Mesh
+    3300020: mia_r_shoe_Mesh
+    3300022: mia_upper_teeth_Mesh
+    4300000: mia_upper_teeth_Mesh
+    4300002: mia_lower_teeth_Mesh
+    4300004: mia_r_eyelashes_Mesh
+    4300006: mia_l_eyelashes_Mesh
+    4300008: mia_Hannah_corner_Mesh
+    4300010: mia_l_Eye_Mesh
+    4300012: mia_r_Eye_Mesh
+    4300014: mia_body_Mesh
+    4300016: mia_hair_Mesh
+    4300018: mia_cloth_Mesh
+    4300020: mia_l_shoe_Mesh
+    4300022: mia_r_shoe_Mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Body
+    second: {fileID: 2100000, guid: 28c92e833dd8b05448f233a2b7e3eea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Cloth
+    second: {fileID: 2100000, guid: 9dd107d24c122a94d8452d649d23d47a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Eyeball
+    second: {fileID: 2100000, guid: 73ec6a0a7ceaef942b413504c4ebf0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Eyelashes
+    second: {fileID: 2100000, guid: e073b745adb35324285cb03c5ca924e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Hair
+    second: {fileID: 2100000, guid: 349c9a92bb74976439fc895cee68033b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_Inner_mouth
+    second: {fileID: 2100000, guid: 4473ae6360bdb6f43b9df22be74aedc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mia_shoes
+    second: {fileID: 2100000, guid: d83544162043a53409039bc0df088234, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: c671e207cbf8c1646b6158847d402677
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cloths
+    100002: //RootNode
+    100004: sofie_Body
+    100006: sofie_eyeball
+    100008: sofie_eyeball_l
+    100010: sofie_eyeball_r
+    100012: sofie_eyecorner
+    100014: sofie_eylash_l
+    100016: sofie_eylash_r
+    100018: sofie_eylash_r 1
+    100020: sofie_FAce
+    100022: sofie_Hair
+    100024: sofie_Inner_Mouth
+    100026: sofie_lower_teeth
+    100028: sofie_Pant
+    100030: sofie_shoes_L
+    100032: sofie_shoes_R
+    100034: sofie_Tshirt1
+    100036: sofie_upper_teeth
+    100038: transform1
+    100040: transform2
+    400000: Cloths
+    400002: //RootNode
+    400004: sofie_Body
+    400006: sofie_eyeball
+    400008: sofie_eyeball_l
+    400010: sofie_eyeball_r
+    400012: sofie_eyecorner
+    400014: sofie_eylash_l
+    400016: sofie_eylash_r
+    400018: sofie_eylash_r 1
+    400020: sofie_FAce
+    400022: sofie_Hair
+    400024: sofie_Inner_Mouth
+    400026: sofie_lower_teeth
+    400028: sofie_Pant
+    400030: sofie_shoes_L
+    400032: sofie_shoes_R
+    400034: sofie_Tshirt1
+    400036: sofie_upper_teeth
+    400038: transform1
+    400040: transform2
+    2100000: Sofie_Eye
+    2100002: Sofie_Body
+    2100004: shoes
+    2100006: Sofie_Pant
+    2100008: Sofie_Tshirt
+    2100010: Sofie_Hair
+    2100012: Sofie_Inner_mouth
+    2100014: Sofie_eyelashes
+    2300000: sofie_Body
+    2300002: sofie_eyeball_l
+    2300004: sofie_eyeball_r
+    2300006: sofie_eyecorner
+    2300008: sofie_eylash_r
+    2300010: sofie_FAce
+    2300012: sofie_Hair
+    2300014: sofie_lower_teeth
+    2300016: sofie_Pant
+    2300018: sofie_shoes_L
+    2300020: sofie_shoes_R
+    2300022: sofie_Tshirt1
+    2300024: sofie_upper_teeth
+    3300000: sofie_Body
+    3300002: sofie_eyeball_l
+    3300004: sofie_eyeball_r
+    3300006: sofie_eyecorner
+    3300008: sofie_eylash_r
+    3300010: sofie_FAce
+    3300012: sofie_Hair
+    3300014: sofie_lower_teeth
+    3300016: sofie_Pant
+    3300018: sofie_shoes_L
+    3300020: sofie_shoes_R
+    3300022: sofie_Tshirt1
+    3300024: sofie_upper_teeth
+    4300000: sofie_eyeball_r
+    4300002: sofie_eyeball_l
+    4300004: sofie_eyecorner
+    4300006: sofie_shoes_L
+    4300008: sofie_Pant
+    4300010: sofie_shoes_R
+    4300012: sofie_Tshirt1
+    4300014: sofie_FAce
+    4300016: sofie_Body
+    4300018: sofie_Hair
+    4300020: sofie_upper_teeth
+    4300022: sofie_lower_teeth
+    4300024: sofie_eylash_r
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Body
+    second: {fileID: 2100000, guid: 6acf9169001817344912d0fa111bd352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Eye
+    second: {fileID: 2100000, guid: 67d92bf5b6216da43b6545f3f6539491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Hair
+    second: {fileID: 2100000, guid: 63b1168be14202d499d4ce691990345e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Inner_mouth
+    second: {fileID: 2100000, guid: f4724c433b42a9c40839074a9547296f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Pant
+    second: {fileID: 2100000, guid: 5affc9c28d4067c408570f929f883853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_Tshirt
+    second: {fileID: 2100000, guid: d202b1dedc890a14dbb0005ae845df87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofie_eyelashes
+    second: {fileID: 2100000, guid: 5b499e0341cddac4595a9301af5cf0c0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

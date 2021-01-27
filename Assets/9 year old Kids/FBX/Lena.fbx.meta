@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 7a1c3b468a1bd19439018eca43df98e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lena_eyeball_l
+    100004: Lena_eyeball_r
+    100006: Lena_eyebrow_mesh
+    100008: Lena_eyelash
+    100010: Lena_Face
+    100012: Lena_hair_mesh
+    100014: Lena_Hand_mesh
+    100016: Lena_Inner_Mouth
+    100018: Lena_lower_teeth
+    100020: Lena_pant_Lp
+    100022: Lena_Shoes_l
+    100024: Lena_Shoes_r
+    100026: Lena_Socks
+    100028: Lena_top
+    100030: Lena_upper_teeth
+    400000: //RootNode
+    400002: Lena_eyeball_l
+    400004: Lena_eyeball_r
+    400006: Lena_eyebrow_mesh
+    400008: Lena_eyelash
+    400010: Lena_Face
+    400012: Lena_hair_mesh
+    400014: Lena_Hand_mesh
+    400016: Lena_Inner_Mouth
+    400018: Lena_lower_teeth
+    400020: Lena_pant_Lp
+    400022: Lena_Shoes_l
+    400024: Lena_Shoes_r
+    400026: Lena_Socks
+    400028: Lena_top
+    400030: Lena_upper_teeth
+    2100000: Lena_eyebrow
+    2100002: Lena_eyeball
+    2100004: Lena_Tshirt
+    2100006: Lena_face
+    2100008: Lena_shoes
+    2100010: Lena_Hand
+    2100012: Lena_Pant
+    2100014: Lena_Inner_mouth
+    2100016: Lena_eyelashes
+    2100018: Lena_Hair
+    2300000: Lena_eyeball_l
+    2300002: Lena_eyeball_r
+    2300004: Lena_eyebrow_mesh
+    2300006: Lena_eyelash
+    2300008: Lena_Face
+    2300010: Lena_hair_mesh
+    2300012: Lena_Hand_mesh
+    2300014: Lena_lower_teeth
+    2300016: Lena_pant_Lp
+    2300018: Lena_Shoes_l
+    2300020: Lena_Shoes_r
+    2300022: Lena_Socks
+    2300024: Lena_top
+    2300026: Lena_upper_teeth
+    3300000: Lena_eyeball_l
+    3300002: Lena_eyeball_r
+    3300004: Lena_eyebrow_mesh
+    3300006: Lena_eyelash
+    3300008: Lena_Face
+    3300010: Lena_hair_mesh
+    3300012: Lena_Hand_mesh
+    3300014: Lena_lower_teeth
+    3300016: Lena_pant_Lp
+    3300018: Lena_Shoes_l
+    3300020: Lena_Shoes_r
+    3300022: Lena_Socks
+    3300024: Lena_top
+    3300026: Lena_upper_teeth
+    4300000: Lena_eyebrow_mesh
+    4300002: Lena_eyeball_l
+    4300004: Lena_eyeball_r
+    4300006: Lena_top
+    4300008: Lena_Face
+    4300010: Lena_Shoes_r
+    4300012: Lena_Shoes_l
+    4300014: Lena_Socks
+    4300016: Lena_Hand_mesh
+    4300018: Lena_pant_Lp
+    4300020: Lena_upper_teeth
+    4300022: Lena_lower_teeth
+    4300024: Lena_eyelash
+    4300026: Lena_hair_mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_Hair
+    second: {fileID: 2100000, guid: f7293de0db2ff8e45ae56345e237e555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_Hand
+    second: {fileID: 2100000, guid: 65f8bc6a2f5f095409bbc83596603748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_Inner_mouth
+    second: {fileID: 2100000, guid: 018185aeeee2403489950cbbedc5aa2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_Pant
+    second: {fileID: 2100000, guid: bf0a077c0b77ab14c984139d2b9271a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_Tshirt
+    second: {fileID: 2100000, guid: fe4169dcfacccfc48947fb937d0c9ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_eyeball
+    second: {fileID: 2100000, guid: 8b84173fdb12e7f4eb88babad14edcb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_eyebrow
+    second: {fileID: 2100000, guid: e2cc3714f80523f47ada222547948252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_eyelashes
+    second: {fileID: 2100000, guid: ff4f6e45418e12f4cb5a024c7f1a15af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_face
+    second: {fileID: 2100000, guid: 95c81544fc73f9e4b8e1203d66fd2999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lena_shoes
+    second: {fileID: 2100000, guid: cbf345a21ad044744bcf4e80f8efbb43, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

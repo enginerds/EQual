@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: dc1579c1baf94c441a619a774d6611a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Shirin_Body_Mesh
+    100004: Shirin_Eye_corner_l_Mesh
+    100006: Shirin_Eye_corner_r_Mesh
+    100008: Shirin_Eyeball_l_Mesh
+    100010: Shirin_Eyeball_mesh
+    100012: Shirin_Eyeball_r_Mesh
+    100014: Shirin_eyelash_l_Mesh
+    100016: Shirin_eyelash_r_Mesh
+    100018: Shirin_Face_mesh
+    100020: Shirin_hair_mesh
+    100022: Shirin_Inner_Mouth
+    100024: Shirin_lower_teeth_Mesh
+    100026: Shirin_Pant_Mesh
+    100028: Shirin_RubberBand_Mesh
+    100030: Shirin_shoes_l_Mesh
+    100032: Shirin_shoes_r_Mesh
+    100034: Shirin_Tshirt_Mesh
+    100036: Shirin_upper_teeth_Mesh
+    400000: //RootNode
+    400002: Shirin_Body_Mesh
+    400004: Shirin_Eye_corner_l_Mesh
+    400006: Shirin_Eye_corner_r_Mesh
+    400008: Shirin_Eyeball_l_Mesh
+    400010: Shirin_Eyeball_mesh
+    400012: Shirin_Eyeball_r_Mesh
+    400014: Shirin_eyelash_l_Mesh
+    400016: Shirin_eyelash_r_Mesh
+    400018: Shirin_Face_mesh
+    400020: Shirin_hair_mesh
+    400022: Shirin_Inner_Mouth
+    400024: Shirin_lower_teeth_Mesh
+    400026: Shirin_Pant_Mesh
+    400028: Shirin_RubberBand_Mesh
+    400030: Shirin_shoes_l_Mesh
+    400032: Shirin_shoes_r_Mesh
+    400034: Shirin_Tshirt_Mesh
+    400036: Shirin_upper_teeth_Mesh
+    2100000: Shirin_Eyelashes
+    2100002: Shirin_Eyeball
+    2100004: Shirin_Body
+    2100006: Shirin_Inner_mouth
+    2100008: Band
+    2100010: Shirin_Hair
+    2100012: Shirin_Tshirt
+    2100014: Shirin_shoes
+    2100016: Shirin_Pant
+    2300000: Shirin_Body_Mesh
+    2300002: Shirin_Eye_corner_l_Mesh
+    2300004: Shirin_Eye_corner_r_Mesh
+    2300006: Shirin_Eyeball_l_Mesh
+    2300008: Shirin_Eyeball_r_Mesh
+    2300010: Shirin_eyelash_l_Mesh
+    2300012: Shirin_eyelash_r_Mesh
+    2300014: Shirin_Face_mesh
+    2300016: Shirin_hair_mesh
+    2300018: Shirin_lower_teeth_Mesh
+    2300020: Shirin_Pant_Mesh
+    2300022: Shirin_RubberBand_Mesh
+    2300024: Shirin_shoes_l_Mesh
+    2300026: Shirin_shoes_r_Mesh
+    2300028: Shirin_Tshirt_Mesh
+    2300030: Shirin_upper_teeth_Mesh
+    3300000: Shirin_Body_Mesh
+    3300002: Shirin_Eye_corner_l_Mesh
+    3300004: Shirin_Eye_corner_r_Mesh
+    3300006: Shirin_Eyeball_l_Mesh
+    3300008: Shirin_Eyeball_r_Mesh
+    3300010: Shirin_eyelash_l_Mesh
+    3300012: Shirin_eyelash_r_Mesh
+    3300014: Shirin_Face_mesh
+    3300016: Shirin_hair_mesh
+    3300018: Shirin_lower_teeth_Mesh
+    3300020: Shirin_Pant_Mesh
+    3300022: Shirin_RubberBand_Mesh
+    3300024: Shirin_shoes_l_Mesh
+    3300026: Shirin_shoes_r_Mesh
+    3300028: Shirin_Tshirt_Mesh
+    3300030: Shirin_upper_teeth_Mesh
+    4300000: Shirin_eyelash_r_Mesh
+    4300002: Shirin_eyelash_l_Mesh
+    4300004: Shirin_Eyeball_r_Mesh
+    4300006: Shirin_Eyeball_l_Mesh
+    4300008: Shirin_Eye_corner_r_Mesh
+    4300010: Shirin_Eye_corner_l_Mesh
+    4300012: Shirin_upper_teeth_Mesh
+    4300014: Shirin_lower_teeth_Mesh
+    4300016: Shirin_RubberBand_Mesh
+    4300018: Shirin_hair_mesh
+    4300020: Shirin_Face_mesh
+    4300022: Shirin_Body_Mesh
+    4300024: Shirin_Tshirt_Mesh
+    4300026: Shirin_shoes_r_Mesh
+    4300028: Shirin_shoes_l_Mesh
+    4300030: Shirin_Pant_Mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Body
+    second: {fileID: 2100000, guid: fc5d1941168798b41ad0c7bf14b43d55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Eyeball
+    second: {fileID: 2100000, guid: eedac115a199dd34c96ef7a7e2a114ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Eyelashes
+    second: {fileID: 2100000, guid: 4ea2faf49b1877141b2d1669f90ccc2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Hair
+    second: {fileID: 2100000, guid: 557869c1df8afc7469d962a59766d7ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Inner_mouth
+    second: {fileID: 2100000, guid: cfb8b655d4cfd8a43ab52eb3f5b4c56b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Pant
+    second: {fileID: 2100000, guid: 9df1f2abb0a2e5a40a3350cf6ef9ded7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_Tshirt
+    second: {fileID: 2100000, guid: 39334287ac6695a41916ca012af74848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirin_shoes
+    second: {fileID: 2100000, guid: 28d9145121734724caa5b844876f6fa2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

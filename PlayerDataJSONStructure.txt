@@ -1,0 +1,99 @@
+/*
+     
+     *Log Data Format
+     
+      {
+       "PlayerID" : "UserID",
+       "CreationTimeStamp" : "TimeStamp",
+	"ScenariosIncluded":[
+			{
+        	   		"SceneName":"Scene1 name",
+				"SceneCode" : "SC1",
+				"SceneFileToLoad":"Scenefile name"
+			}
+   
+           	],      
+ 	"ScenariosAttemted":{
+           "SC1":true,
+           "SC2":true
+           },
+       "SC1":{
+           "TeacherActions":
+           {
+               "TASData":[
+                       {
+                               "TeacherActionSelected": "1",
+                               "TASQuestion": "SLHSJHFKJSF",
+                               "TASTimeStarted": "45454",
+                               "TASTimeFinished": "45454",
+                               "TASComment": "dfgfdgfg"
+                        }
+                   ]
+            },
+            "PlayerActions":
+             {
+		    "IntroPopupWindowShownAt" : "434353",
+		    "IntroPopupWindowAcceptedAt" : "434353",
+                   "LookingAt" : [
+                       {
+                           "Target" : "Object Name",
+                           "Time" : "34343",
+                           "CurrentCell" : "CellNumber",
+			    "CurrentActualPos" : {"x":1.0,"y":2.0,"z":3.0}
+			    "CurrentActualLookingDirection" : {"x":1.0,"y":2.0,"z":3.0}
+                       }
+                   ],
+		   "MovedTo" : [
+                       {
+                           "FromCell" : "Cell Name",
+                           "CurrentCell" : "CellNumber",
+                           "Time" : "34343",
+			    "CurrentActualPos" : {"x":1.0,"y":2.0,"z":3.0}
+                       }
+                   ],
+
+ 		   "SelectedStudent" : [
+                       {
+                           "StudentName" : "Name",
+                           "Time" : "34343",
+                       }
+                   ]
+              }
+            "StudentSetup": [
+                       {
+                           "StudentName" : "Name",
+                           "Chair" : "ChairNumber",
+                           "Desk" : "DeskNumber",
+                           "CubbyBox" : "TableNumber",
+                           "NeighbourStudent":"Student Name"
+                       }
+                   ]
+              }          
+          "StudentActions":
+             {
+                   "LookingAt" : [
+                       {
+                           "StudentName" : "Name",
+                           "Target" : "Object Name",
+                           "Time" : "34343",
+                           "CurrentCell" : "CellNumber"
+			    "CurrentActualPos" : {"x":1.0,"y":2.0,"z":3.0}
+                        }
+                   ],
+                   "Animations" : [
+                        {
+                           "StudentName" : "Name",
+                           "AnimationName" : " Name",
+                           "Time" : "34343",
+                           "CurrentCell" : "CellNumber"
+                        }
+                   ]
+              }           
+          }
+     
+      }
+     
+     
+     
+      
+     * */

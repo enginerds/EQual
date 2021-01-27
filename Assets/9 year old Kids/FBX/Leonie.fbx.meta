@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 3ea2cfae656131843a6f8f69651abb67
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cloth
+    100002: Leoni_eyelash_r
+    100004: //RootNode
+    100006: Leonie_Eyeball_l
+    100008: Leonie_Eyeball_r
+    100010: Leonie_eyecorner
+    100012: Leonie_eyelash_l
+    100014: Leonie_Eyes
+    100016: Leonie_Face
+    100018: Leonie_Hair_mesh
+    100020: Leonie_inner_Mesh_
+    100022: Leonie_Inner_Mouth
+    100024: Leonie_lower_teeth
+    100026: Leonie_pant_mesh
+    100028: Leonie_Shoes_l
+    100030: Leonie_Shoes_r
+    100032: Leonie_top_mesh
+    100034: Leonie_upper_teeth
+    100036: shoe
+    400000: cloth
+    400002: Leoni_eyelash_r
+    400004: //RootNode
+    400006: Leonie_Eyeball_l
+    400008: Leonie_Eyeball_r
+    400010: Leonie_eyecorner
+    400012: Leonie_eyelash_l
+    400014: Leonie_Eyes
+    400016: Leonie_Face
+    400018: Leonie_Hair_mesh
+    400020: Leonie_inner_Mesh_
+    400022: Leonie_Inner_Mouth
+    400024: Leonie_lower_teeth
+    400026: Leonie_pant_mesh
+    400028: Leonie_Shoes_l
+    400030: Leonie_Shoes_r
+    400032: Leonie_top_mesh
+    400034: Leonie_upper_teeth
+    400036: shoe
+    2100000: Leonie_Shoes
+    2100002: Leonie_Eyelashes
+    2100004: Leonie_Eyeball
+    2100006: Leonie_Hair
+    2100008: Pupil
+    2100010: Leonie_Body
+    2100012: Leonie_Pant
+    2100014: Leonie_Jacket
+    2100016: Leonie_Inner
+    2100018: Leonie_Inner_mouth
+    2300000: Leoni_eyelash_r
+    2300002: Leonie_Eyeball_l
+    2300004: Leonie_Eyeball_r
+    2300006: Leonie_eyecorner
+    2300008: Leonie_eyelash_l
+    2300010: Leonie_Face
+    2300012: Leonie_Hair_mesh
+    2300014: Leonie_inner_Mesh_
+    2300016: Leonie_lower_teeth
+    2300018: Leonie_pant_mesh
+    2300020: Leonie_Shoes_l
+    2300022: Leonie_Shoes_r
+    2300024: Leonie_top_mesh
+    2300026: Leonie_upper_teeth
+    3300000: Leoni_eyelash_r
+    3300002: Leonie_Eyeball_l
+    3300004: Leonie_Eyeball_r
+    3300006: Leonie_eyecorner
+    3300008: Leonie_eyelash_l
+    3300010: Leonie_Face
+    3300012: Leonie_Hair_mesh
+    3300014: Leonie_inner_Mesh_
+    3300016: Leonie_lower_teeth
+    3300018: Leonie_pant_mesh
+    3300020: Leonie_Shoes_l
+    3300022: Leonie_Shoes_r
+    3300024: Leonie_top_mesh
+    3300026: Leonie_upper_teeth
+    4300000: Leonie_Shoes_l
+    4300002: Leonie_Shoes_r
+    4300004: Leoni_eyelash_r
+    4300006: Leonie_eyelash_l
+    4300008: Leonie_Eyeball_l
+    4300010: Leonie_Eyeball_r
+    4300012: Leonie_Hair_mesh
+    4300014: Leonie_eyecorner
+    4300016: Leonie_Face
+    4300018: Leonie_pant_mesh
+    4300020: Leonie_top_mesh
+    4300022: Leonie_inner_Mesh_
+    4300024: Leonie_upper_teeth
+    4300026: Leonie_lower_teeth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Body
+    second: {fileID: 2100000, guid: 67a6eb9269e756245bd3ab06fa480a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Eyeball
+    second: {fileID: 2100000, guid: 5dc8b6b981560214996727edfe5d4a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Eyelashes
+    second: {fileID: 2100000, guid: a6faf0ab6e9dbce46a314c6fc9e67b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Hair
+    second: {fileID: 2100000, guid: 774defd771b50bf408bcd70fea514923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Inner
+    second: {fileID: 2100000, guid: af4c895bf2e96b64faaa3f2b3f7194db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Inner_mouth
+    second: {fileID: 2100000, guid: f053c6a96386a8844bdb0f85f8a896d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Jacket
+    second: {fileID: 2100000, guid: 41b50c3ac8d9b6b4fb5b7aef7a88be90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Pant
+    second: {fileID: 2100000, guid: 620a8c4db019ac64783689b63598db3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leonie_Shoes
+    second: {fileID: 2100000, guid: 78de4a6185102ce4a8db8084e5766177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupil
+    second: {fileID: 2100000, guid: d9d1f1d593848ea4cb80d4ea59d033dc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

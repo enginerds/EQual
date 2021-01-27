@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ScenarioLoader.unity
+    guid: 16617fc87b7c74429bbf82d54894abfe
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T1.unity
+    guid: 3310f478e3edd794b86439c96f0e55cb
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T2.unity
+    guid: e3255a50dde504445a63d9b7b69c2b7a
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T3.unity
+    guid: 4d48f2e8243b246979ae53307c0eee37
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T4.unity
+    guid: 52e37c9cd6ff09f4c863ea2fd3d4f1e7
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T5.unity
+    guid: 69506b6955a9f42a091b38a0c8ce71ed
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T6.unity
+    guid: 75bfad63b128e2e4bb8343fbfd497afb
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T7.unity
+    guid: cd93dae84f7fc4f8d9bcd8041e572a3c
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T8.unity
+    guid: 284b3b8cd96bb4c8caa85190a547126f
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T9.unity
+    guid: 53c58165986c7fd4dbf9b184ee6e9743
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T10.unity
+    guid: 52d57f3e4e97ec3408c47c9f1307787b
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T11.unity
+    guid: 48f4dfe52d5294a7ba55c4ced513ceca
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T12.unity
+    guid: 434585347953c1f4eb7fe90117b5aaf1
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T13.unity
+    guid: 0ee930248de9ab54194a2f679e510d72
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T14.unity
+    guid: c5aea4eaf466df7479640dc84fdc7b6f
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T15.unity
+    guid: 463f584fe8b37d74a9de49246e3fc8cf
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T16.unity
+    guid: d263bb6765f07426c990d0be9f478b58
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T17.unity
+    guid: c2fb381b6a72f1c42885c0ed47c3ee25
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T18.unity
+    guid: 4b1af82068a977a4da977875f4cd4b3f
+  - enabled: 1
+    path: Assets/Scenes/EQual_I_Scenario_T19.unity
+    guid: 87650435751add34fad89a3701bfcbac
+  m_configObjects: {}

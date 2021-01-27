@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c55dfbc892ed3d64795b61e0644df906
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: eye
+    100002: //RootNode
+    100004: Julian_Body_mesh
+    100006: Julian_Eye
+    100008: Julian_Eye_l
+    100010: Julian_Eyelash
+    100012: Julian_Hair
+    100014: Julian_Inner_Mouth
+    100016: Julian_lower_teeth
+    100018: Julian_pant
+    100020: Julian_Shoes_l
+    100022: Julian_Shoes_r
+    100024: Julian_tshirt
+    100026: Julian_upper_teeth
+    400000: eye
+    400002: //RootNode
+    400004: Julian_Body_mesh
+    400006: Julian_Eye
+    400008: Julian_Eye_l
+    400010: Julian_Eyelash
+    400012: Julian_Hair
+    400014: Julian_Inner_Mouth
+    400016: Julian_lower_teeth
+    400018: Julian_pant
+    400020: Julian_Shoes_l
+    400022: Julian_Shoes_r
+    400024: Julian_tshirt
+    400026: Julian_upper_teeth
+    2100000: Julian_Body
+    2100002: Julian_Eyeball
+    2100004: Julian_Hair_Lower
+    2100006: Julian_Hair_Upper
+    2100008: Julian_Cloth
+    2100010: Julian_Shoe
+    2100012: Julian_Inner_mouth
+    2100014: Julian_eyelashes
+    2300000: eye
+    2300002: Julian_Body_mesh
+    2300004: Julian_Eye_l
+    2300006: Julian_Eyelash
+    2300008: Julian_Hair
+    2300010: Julian_lower_teeth
+    2300012: Julian_pant
+    2300014: Julian_Shoes_l
+    2300016: Julian_Shoes_r
+    2300018: Julian_tshirt
+    2300020: Julian_upper_teeth
+    3300000: eye
+    3300002: Julian_Body_mesh
+    3300004: Julian_Eye_l
+    3300006: Julian_Eyelash
+    3300008: Julian_Hair
+    3300010: Julian_lower_teeth
+    3300012: Julian_pant
+    3300014: Julian_Shoes_l
+    3300016: Julian_Shoes_r
+    3300018: Julian_tshirt
+    3300020: Julian_upper_teeth
+    4300000: Julian_Body_mesh
+    4300002: eye
+    4300004: Julian_Eye_l
+    4300006: Julian_Hair
+    4300008: Julian_tshirt
+    4300010: Julian_pant
+    4300012: Julian_Shoes_r
+    4300014: Julian_Shoes_l
+    4300016: Julian_upper_teeth
+    4300018: Julian_lower_teeth
+    4300020: Julian_Eyelash
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Body
+    second: {fileID: 2100000, guid: 4fb82f86905e4da48b5b3093e69695b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Cloth
+    second: {fileID: 2100000, guid: ff58ce6c474809a459eaa4933e80a3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Eyeball
+    second: {fileID: 2100000, guid: 06343b691f62d6c46985f259a55a32f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Hair_Lower
+    second: {fileID: 2100000, guid: c86774904d0b35a489a33f873333451f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Hair_Upper
+    second: {fileID: 2100000, guid: ae9842c2523e85949a594d3a3dcd5c96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Inner_mouth
+    second: {fileID: 2100000, guid: f4a90802f699f2e419a6a9932911b516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_Shoe
+    second: {fileID: 2100000, guid: da87eb6634723be47bf85844738dd0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Julian_eyelashes
+    second: {fileID: 2100000, guid: 8558ebd520cdc80428fa91ef7bdc8ce6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

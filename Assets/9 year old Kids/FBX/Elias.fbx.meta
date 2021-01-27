@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: a31c8338173e01c4d8dc57eb5e4e8b70
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Elias_Base_Eye
+    100004: Elias_body
+    100006: Elias_eye_lash
+    100008: Elias_Eyeball_l
+    100010: Elias_Eyeball_r
+    100012: Elias_eyecorner
+    100014: Elias_Hair_mesh
+    100016: Elias_lower_teeth
+    100018: Elias_pant_mesh
+    100020: Elias_Shoes_l
+    100022: Elias_Shoes_r
+    100024: Elias_Tshirt
+    100026: Elias_upper_teeth
+    100028: Inner_Mouth
+    400000: //RootNode
+    400002: Elias_Base_Eye
+    400004: Elias_body
+    400006: Elias_eye_lash
+    400008: Elias_Eyeball_l
+    400010: Elias_Eyeball_r
+    400012: Elias_eyecorner
+    400014: Elias_Hair_mesh
+    400016: Elias_lower_teeth
+    400018: Elias_pant_mesh
+    400020: Elias_Shoes_l
+    400022: Elias_Shoes_r
+    400024: Elias_Tshirt
+    400026: Elias_upper_teeth
+    400028: Inner_Mouth
+    2100000: Elias_Inner_mouth
+    2100002: Elias_Body
+    2100004: Elias_eyelash
+    2100006: Elias_eye
+    2100008: Elias_hair
+    2100010: Elias_pant
+    2100012: Elias_Shoes
+    2100014: Elias_shirt
+    2300000: Elias_body
+    2300002: Elias_eye_lash
+    2300004: Elias_Eyeball_l
+    2300006: Elias_Eyeball_r
+    2300008: Elias_eyecorner
+    2300010: Elias_Hair_mesh
+    2300012: Elias_lower_teeth
+    2300014: Elias_pant_mesh
+    2300016: Elias_Shoes_l
+    2300018: Elias_Shoes_r
+    2300020: Elias_Tshirt
+    2300022: Elias_upper_teeth
+    3300000: Elias_body
+    3300002: Elias_eye_lash
+    3300004: Elias_Eyeball_l
+    3300006: Elias_Eyeball_r
+    3300008: Elias_eyecorner
+    3300010: Elias_Hair_mesh
+    3300012: Elias_lower_teeth
+    3300014: Elias_pant_mesh
+    3300016: Elias_Shoes_l
+    3300018: Elias_Shoes_r
+    3300020: Elias_Tshirt
+    3300022: Elias_upper_teeth
+    4300000: Elias_upper_teeth
+    4300002: Elias_lower_teeth
+    4300004: Elias_eyecorner
+    4300006: Elias_eye_lash
+    4300008: Elias_Eyeball_r
+    4300010: Elias_Eyeball_l
+    4300012: Elias_Hair_mesh
+    4300014: Elias_pant_mesh
+    4300016: Elias_Shoes_r
+    4300018: Elias_Shoes_l
+    4300020: Elias_body
+    4300022: Elias_Tshirt
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_Body
+    second: {fileID: 2100000, guid: 8f15303f02b0be042b2ab52c079c067d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_Inner_mouth
+    second: {fileID: 2100000, guid: 7040968e2e220e14daa762a4f8431117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_Shoes
+    second: {fileID: 2100000, guid: 3d7385875310d8b41acb0374983896b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_eye
+    second: {fileID: 2100000, guid: 2a0ed287f8bee4c449133b3c62e837c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_eyelash
+    second: {fileID: 2100000, guid: eed85244999fdb64bad522a64edc0a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_hair
+    second: {fileID: 2100000, guid: 543ce648e5a66a74e92e06da8fa0c2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_pant
+    second: {fileID: 2100000, guid: 7de2d2dfc1d2ffa428bf5fc24a26dd2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elias_shirt
+    second: {fileID: 2100000, guid: f1ee6a8f45e393c45a9c4b94b64e0a12, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

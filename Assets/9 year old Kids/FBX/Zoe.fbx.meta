@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 7ab5ddafab681fc408f531450a35a258
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Inner_Mouth
+    100002: SHOES
+    100004: //RootNode
+    100006: Zoe_Body_Mesh
+    100008: Zoe_Body_Mesh 1
+    100010: Zoe_Eye
+    100012: Zoe_Eye_Corener
+    100014: Zoe_eyeball_l_Mesh
+    100016: Zoe_eyeball_r_Mesh
+    100018: Zoe_eyelash_mesh
+    100020: Zoe_Hair_Mesh
+    100022: Zoe_lower_teeth_Mesh
+    100024: Zoe_pant_Mesh
+    100026: Zoe_Shoes_l_Mesh
+    100028: Zoe_Shoes_r_Mesh
+    100030: Zoe_tshirt_Mesh
+    100032: Zoe_upper_teeth_Mesh
+    400000: Inner_Mouth
+    400002: SHOES
+    400004: //RootNode
+    400006: Zoe_Body_Mesh
+    400008: Zoe_Body_Mesh 1
+    400010: Zoe_Eye
+    400012: Zoe_Eye_Corener
+    400014: Zoe_eyeball_l_Mesh
+    400016: Zoe_eyeball_r_Mesh
+    400018: Zoe_eyelash_mesh
+    400020: Zoe_Hair_Mesh
+    400022: Zoe_lower_teeth_Mesh
+    400024: Zoe_pant_Mesh
+    400026: Zoe_Shoes_l_Mesh
+    400028: Zoe_Shoes_r_Mesh
+    400030: Zoe_tshirt_Mesh
+    400032: Zoe_upper_teeth_Mesh
+    2100000: Zoe_Body
+    2100002: Zoe_Eyeball
+    2100004: Zoe_Pant
+    2100006: Zoe_Tshirt
+    2100008: Zoe_Hair
+    2100010: Zoe_Shoe
+    2100012: Zoe_Inner_mouth
+    2300000: Zoe_Body_Mesh 1
+    2300002: Zoe_Eye_Corener
+    2300004: Zoe_eyeball_l_Mesh
+    2300006: Zoe_eyeball_r_Mesh
+    2300008: Zoe_eyelash_mesh
+    2300010: Zoe_Hair_Mesh
+    2300012: Zoe_lower_teeth_Mesh
+    2300014: Zoe_pant_Mesh
+    2300016: Zoe_Shoes_l_Mesh
+    2300018: Zoe_Shoes_r_Mesh
+    2300020: Zoe_tshirt_Mesh
+    2300022: Zoe_upper_teeth_Mesh
+    3300000: Zoe_Body_Mesh 1
+    3300002: Zoe_Eye_Corener
+    3300004: Zoe_eyeball_l_Mesh
+    3300006: Zoe_eyeball_r_Mesh
+    3300008: Zoe_eyelash_mesh
+    3300010: Zoe_Hair_Mesh
+    3300012: Zoe_lower_teeth_Mesh
+    3300014: Zoe_pant_Mesh
+    3300016: Zoe_Shoes_l_Mesh
+    3300018: Zoe_Shoes_r_Mesh
+    3300020: Zoe_tshirt_Mesh
+    3300022: Zoe_upper_teeth_Mesh
+    4300000: Zoe_Body_Mesh
+    4300002: Zoe_eyelash_mesh
+    4300004: Zoe_eyeball_r_Mesh
+    4300006: Zoe_eyeball_l_Mesh
+    4300008: Zoe_pant_Mesh
+    4300010: Zoe_tshirt_Mesh
+    4300012: Zoe_Hair_Mesh
+    4300014: Zoe_Shoes_l_Mesh
+    4300016: Zoe_Shoes_r_Mesh
+    4300018: Zoe_upper_teeth_Mesh
+    4300020: Zoe_lower_teeth_Mesh
+    4300022: Zoe_Eye_Corener
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Body
+    second: {fileID: 2100000, guid: e08e0108aac972f49b1be797426921a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Eyeball
+    second: {fileID: 2100000, guid: 6958081c5311ebe4a9540d4d033049b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Hair
+    second: {fileID: 2100000, guid: c14ef558a5934cb4682808a667e47350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Inner_mouth
+    second: {fileID: 2100000, guid: a83d44f87ee1dbd49896c2d56c4d137d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Pant
+    second: {fileID: 2100000, guid: dd5e5ebeb5156f549afc5878643de6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Shoe
+    second: {fileID: 2100000, guid: 15076a3fd99b0834490c8175a09042e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zoe_Tshirt
+    second: {fileID: 2100000, guid: 0a1f3bb17d4ef6a4da3acfaf877b2338, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

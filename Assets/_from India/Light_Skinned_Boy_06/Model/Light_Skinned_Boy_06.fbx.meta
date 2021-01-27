@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 6cb497d8f63e5694c88d1492e90e1a7e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Light_Skinned_Boy_06
+    100002: //RootNode
+    100004: Light_Skinned_Boy_06_Body
+    100006: Light_Skinned_Boy_06_Eye
+    100008: Light_Skinned_Boy_06_Eyebrow
+    100010: Light_Skinned_Boy_06_Eyelash
+    100012: Light_Skinned_Boy_06_Glasses
+    100014: Light_Skinned_Boy_06_Hair
+    100016: Light_Skinned_Boy_06_Jeans
+    100018: Light_Skinned_Boy_06_Shoes
+    100020: Light_Skinned_Boy_06_Top
+    100022: mixamorig:Head
+    100024: mixamorig:HeadTop_End
+    100026: mixamorig:Hips
+    100028: mixamorig:LeftArm
+    100030: mixamorig:LeftFoot
+    100032: mixamorig:LeftForeArm
+    100034: mixamorig:LeftHand
+    100036: mixamorig:LeftHandIndex1
+    100038: mixamorig:LeftHandIndex2
+    100040: mixamorig:LeftHandIndex3
+    100042: mixamorig:LeftHandIndex4
+    100044: mixamorig:LeftLeg
+    100046: mixamorig:LeftShoulder
+    100048: mixamorig:LeftToe_End
+    100050: mixamorig:LeftToeBase
+    100052: mixamorig:LeftUpLeg
+    100054: mixamorig:Neck
+    100056: mixamorig:RightArm
+    100058: mixamorig:RightFoot
+    100060: mixamorig:RightForeArm
+    100062: mixamorig:RightHand
+    100064: mixamorig:RightHandIndex1
+    100066: mixamorig:RightHandIndex2
+    100068: mixamorig:RightHandIndex3
+    100070: mixamorig:RightHandIndex4
+    100072: mixamorig:RightLeg
+    100074: mixamorig:RightShoulder
+    100076: mixamorig:RightToe_End
+    100078: mixamorig:RightToeBase
+    100080: mixamorig:RightUpLeg
+    100082: mixamorig:Spine
+    100084: mixamorig:Spine1
+    100086: mixamorig:Spine2
+    400000: Light_Skinned_Boy_06
+    400002: //RootNode
+    400004: Light_Skinned_Boy_06_Body
+    400006: Light_Skinned_Boy_06_Eye
+    400008: Light_Skinned_Boy_06_Eyebrow
+    400010: Light_Skinned_Boy_06_Eyelash
+    400012: Light_Skinned_Boy_06_Glasses
+    400014: Light_Skinned_Boy_06_Hair
+    400016: Light_Skinned_Boy_06_Jeans
+    400018: Light_Skinned_Boy_06_Shoes
+    400020: Light_Skinned_Boy_06_Top
+    400022: mixamorig:Head
+    400024: mixamorig:HeadTop_End
+    400026: mixamorig:Hips
+    400028: mixamorig:LeftArm
+    400030: mixamorig:LeftFoot
+    400032: mixamorig:LeftForeArm
+    400034: mixamorig:LeftHand
+    400036: mixamorig:LeftHandIndex1
+    400038: mixamorig:LeftHandIndex2
+    400040: mixamorig:LeftHandIndex3
+    400042: mixamorig:LeftHandIndex4
+    400044: mixamorig:LeftLeg
+    400046: mixamorig:LeftShoulder
+    400048: mixamorig:LeftToe_End
+    400050: mixamorig:LeftToeBase
+    400052: mixamorig:LeftUpLeg
+    400054: mixamorig:Neck
+    400056: mixamorig:RightArm
+    400058: mixamorig:RightFoot
+    400060: mixamorig:RightForeArm
+    400062: mixamorig:RightHand
+    400064: mixamorig:RightHandIndex1
+    400066: mixamorig:RightHandIndex2
+    400068: mixamorig:RightHandIndex3
+    400070: mixamorig:RightHandIndex4
+    400072: mixamorig:RightLeg
+    400074: mixamorig:RightShoulder
+    400076: mixamorig:RightToe_End
+    400078: mixamorig:RightToeBase
+    400080: mixamorig:RightUpLeg
+    400082: mixamorig:Spine
+    400084: mixamorig:Spine1
+    400086: mixamorig:Spine2
+    2100000: Light_Skinned_Boy_06_Eyelash
+    2100002: Light_Skinned_Boy_06_Eyebrow
+    2100004: Light_Skinned_Boy_06_Eye
+    2100006: Light_Skinned_Boy_06_Body
+    2100008: Light_Skinned_Boy_06_Jeans
+    2100010: Light_Skinned_Boy_06_Glasses
+    2100012: Light_Skinned_Boy_06_Hair
+    2100014: Light_Skinned_Boy_06_Shoes
+    2100016: Light_Skinned_Boy_06_Top
+    4300000: Light_Skinned_Boy_06_Eyelash
+    4300002: Light_Skinned_Boy_06_Eyebrow
+    4300004: Light_Skinned_Boy_06_Eye
+    4300006: Light_Skinned_Boy_06_Body
+    4300008: Light_Skinned_Boy_06_Jeans
+    4300010: Light_Skinned_Boy_06_Glasses
+    4300012: Light_Skinned_Boy_06_Hair
+    4300014: Light_Skinned_Boy_06_Shoes
+    4300016: Light_Skinned_Boy_06_Top
+    9500000: //RootNode
+    13700000: Light_Skinned_Boy_06_Body
+    13700002: Light_Skinned_Boy_06_Eye
+    13700004: Light_Skinned_Boy_06_Eyebrow
+    13700006: Light_Skinned_Boy_06_Eyelash
+    13700008: Light_Skinned_Boy_06_Glasses
+    13700010: Light_Skinned_Boy_06_Hair
+    13700012: Light_Skinned_Boy_06_Jeans
+    13700014: Light_Skinned_Boy_06_Shoes
+    13700016: Light_Skinned_Boy_06_Top
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Body
+    second: {fileID: 2100000, guid: 49e7ec04c5e343b40a877fdbeefcfc79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Eye
+    second: {fileID: 2100000, guid: 03e0d06bcc3e46d4b971f6b2321d90cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Eyebrow
+    second: {fileID: 2100000, guid: 2354fc01786b78d4ab4e8a48496b299b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Eyelash
+    second: {fileID: 2100000, guid: 3140c63a496144840ac9c42f1e6baa59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Glasses
+    second: {fileID: 2100000, guid: 034da996459e1b64380b9e033df2fa87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Hair
+    second: {fileID: 2100000, guid: d05961eeda063c341b2ff4d7db5bd345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Jeans
+    second: {fileID: 2100000, guid: 0c437161a6117ca4ba6b83c977bc7f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Shoes
+    second: {fileID: 2100000, guid: daa130f73fea7b944956fa0d75a384c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Skinned_Boy_06_Top
+    second: {fileID: 2100000, guid: 1465d1df36414b34684f1a6c6dc296bf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

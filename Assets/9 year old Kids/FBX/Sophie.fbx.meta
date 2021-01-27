@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 579edd5d36aa61645997afd459e14407
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Face
+    100002: Inner_mouth
+    100004: //RootNode
+    100006: Sophie_eyeball_l_Mesh
+    100008: Sophie_eyeball_r_Mesh
+    100010: sophie_eyebrow_Mesh
+    100012: Sophie_eyelash_l_Mesh
+    100014: Sophie_eyelash_r_Mesh
+    100016: Sophie_face_Mesh
+    100018: sophie_Hair_Mesh
+    100020: sophie_Hand_l_Mesh
+    100022: sophie_Hand_r_Mesh
+    100024: Sophie_lower_teeth_Mesh
+    100026: sophie_pant_Mesh
+    100028: Sophie_Shoes_Mesh
+    100030: Sophie_Socks_Mesh
+    100032: sophie_tshirt_Mesh
+    100034: Sophie_upper_teeth_Mesh
+    400000: Face
+    400002: Inner_mouth
+    400004: //RootNode
+    400006: Sophie_eyeball_l_Mesh
+    400008: Sophie_eyeball_r_Mesh
+    400010: sophie_eyebrow_Mesh
+    400012: Sophie_eyelash_l_Mesh
+    400014: Sophie_eyelash_r_Mesh
+    400016: Sophie_face_Mesh
+    400018: sophie_Hair_Mesh
+    400020: sophie_Hand_l_Mesh
+    400022: sophie_Hand_r_Mesh
+    400024: Sophie_lower_teeth_Mesh
+    400026: sophie_pant_Mesh
+    400028: Sophie_Shoes_Mesh
+    400030: Sophie_Socks_Mesh
+    400032: sophie_tshirt_Mesh
+    400034: Sophie_upper_teeth_Mesh
+    2100000: Sophie_Hair
+    2100002: Sophie_Tshirt
+    2100004: Sophie_Hands
+    2100006: Sophie_Pant
+    2100008: Sophie_Shoes
+    2100010: Sophie_Socks
+    2100012: Sophie_Eyelashes
+    2100014: Sophie_Eyeball
+    2100016: Sophie_Eyebrow
+    2100018: Sophie_Face
+    2100020: Sophie_Inner_mouth
+    2300000: Sophie_eyeball_l_Mesh
+    2300002: Sophie_eyeball_r_Mesh
+    2300004: sophie_eyebrow_Mesh
+    2300006: Sophie_eyelash_l_Mesh
+    2300008: Sophie_eyelash_r_Mesh
+    2300010: Sophie_face_Mesh
+    2300012: sophie_Hair_Mesh
+    2300014: sophie_Hand_l_Mesh
+    2300016: sophie_Hand_r_Mesh
+    2300018: Sophie_lower_teeth_Mesh
+    2300020: sophie_pant_Mesh
+    2300022: Sophie_Shoes_Mesh
+    2300024: Sophie_Socks_Mesh
+    2300026: sophie_tshirt_Mesh
+    2300028: Sophie_upper_teeth_Mesh
+    3300000: Sophie_eyeball_l_Mesh
+    3300002: Sophie_eyeball_r_Mesh
+    3300004: sophie_eyebrow_Mesh
+    3300006: Sophie_eyelash_l_Mesh
+    3300008: Sophie_eyelash_r_Mesh
+    3300010: Sophie_face_Mesh
+    3300012: sophie_Hair_Mesh
+    3300014: sophie_Hand_l_Mesh
+    3300016: sophie_Hand_r_Mesh
+    3300018: Sophie_lower_teeth_Mesh
+    3300020: sophie_pant_Mesh
+    3300022: Sophie_Shoes_Mesh
+    3300024: Sophie_Socks_Mesh
+    3300026: sophie_tshirt_Mesh
+    3300028: Sophie_upper_teeth_Mesh
+    4300000: sophie_Hair_Mesh
+    4300002: sophie_tshirt_Mesh
+    4300004: sophie_Hand_r_Mesh
+    4300006: sophie_pant_Mesh
+    4300008: Sophie_Shoes_Mesh
+    4300010: Sophie_Socks_Mesh
+    4300012: sophie_Hand_l_Mesh
+    4300014: Sophie_eyelash_r_Mesh
+    4300016: Sophie_eyelash_l_Mesh
+    4300018: Sophie_eyeball_r_Mesh
+    4300020: Sophie_eyeball_l_Mesh
+    4300022: sophie_eyebrow_Mesh
+    4300024: Sophie_face_Mesh
+    4300026: Sophie_lower_teeth_Mesh
+    4300028: Sophie_upper_teeth_Mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Eyeball
+    second: {fileID: 2100000, guid: 161ae42631cec034ea99dc59e6e290f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Eyebrow
+    second: {fileID: 2100000, guid: 133528b5a4fd52f4dba25c94ca9ef974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Eyelashes
+    second: {fileID: 2100000, guid: fb389eae2b85b8247b5db6ad81ca957f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Face
+    second: {fileID: 2100000, guid: 884890bfec19b314e959571842c426a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Hair
+    second: {fileID: 2100000, guid: 666685641e933a44890181484174594a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Hands
+    second: {fileID: 2100000, guid: a69617b646c8d0e4597aaa117b6a9609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Inner_mouth
+    second: {fileID: 2100000, guid: e6b87234694d9a04582f2eb6ec7c6cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Pant
+    second: {fileID: 2100000, guid: ceac702763a520a4e97cd3bb0c747666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Shoes
+    second: {fileID: 2100000, guid: b48897a757bbf8443b9c5201a6b53970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Socks
+    second: {fileID: 2100000, guid: db23fc0db9bb64d4c9de2e1375195f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sophie_Tshirt
+    second: {fileID: 2100000, guid: 61066a0205d7bee43b370a4c0fe67b61, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

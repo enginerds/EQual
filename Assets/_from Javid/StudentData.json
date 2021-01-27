@@ -1,0 +1,149 @@
+{
+    "Zoe": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Britisch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Tom": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Lena": {
+        "gender": "weiblich",
+        "age": 11,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Sophie": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Niko": {
+        "gender": "männlich",
+        "age": 11,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Shirin": {
+        "gender": "weiblich",
+        "age": 9,
+        "ethnicity": "Persisch",
+        "special need": "Kein",
+        "Level of achievement": "hoch"
+    },
+    "Hannah": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "niedrig"
+    },
+    "Jannik": {
+        "gender": "männlich",
+        "age": 9,
+        "ethnicity": "Deutsch",
+        "special need": "Lernen",
+        "Level of achievement": "niedrig"
+    },
+    "Niklas": {
+        "gender": "männlich",
+        "age": 9,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "niedrig"
+    },
+    "Mia": {
+        "gender": "weiblich",
+        "age": 9,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "niedrig"
+    },
+    "Selin": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Türkisch",
+        "special need": "Kein",
+        "Level of achievement": "niedrig"
+    },
+    "Maxim": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Bulgarisch",
+        "special need": "Emotionale und soziale Entwicklung",
+        "Level of achievement": "mittel"
+    },
+    "Sofie": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Französisch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Pia": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Leon": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Leonie": {
+        "gender": "weiblich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Emotionale und soziale Entwicklung",
+        "Level of achievement": "mittel"
+    },
+    "Elias": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Finn": {
+        "gender": "männlich",
+        "age": 11,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Julian": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Deutsch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Simon": {
+        "gender": "männlich",
+        "age": 10,
+        "ethnicity": "Polnisch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    },
+    "Emre": {
+        "gender": "männlich",
+        "age": 9,
+        "ethnicity": "Türkisch",
+        "special need": "Kein",
+        "Level of achievement": "mittel"
+    }
+}

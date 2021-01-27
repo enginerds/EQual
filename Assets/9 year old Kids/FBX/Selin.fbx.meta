@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 21abcc4844368c845888c36732ac25a4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Selin_Body_mesh
+    100004: Selin_Eye
+    100006: Selin_Eyeball_l
+    100008: Selin_Eyeball_r
+    100010: Selin_Hair_mesh
+    100012: Selin_Inner_Mouth
+    100014: Selin_lower_teeth
+    100016: Selin_Pant
+    100018: Selin_Shoes
+    100020: Selin_Shoes_l
+    100022: Selin_Shoes_r
+    100024: Selin_Tshirt
+    100026: Selin_upper_teeth
+    400000: //RootNode
+    400002: Selin_Body_mesh
+    400004: Selin_Eye
+    400006: Selin_Eyeball_l
+    400008: Selin_Eyeball_r
+    400010: Selin_Hair_mesh
+    400012: Selin_Inner_Mouth
+    400014: Selin_lower_teeth
+    400016: Selin_Pant
+    400018: Selin_Shoes
+    400020: Selin_Shoes_l
+    400022: Selin_Shoes_r
+    400024: Selin_Tshirt
+    400026: Selin_upper_teeth
+    2100000: Selin_Eyeball
+    2100002: Selin_Hair
+    2100004: Selin_Body
+    2100006: Selin_Cloth
+    2100008: Selin_Shoe
+    2100010: Selin_Inner_mouth
+    2300000: Selin_Body_mesh
+    2300002: Selin_Eyeball_l
+    2300004: Selin_Eyeball_r
+    2300006: Selin_Hair_mesh
+    2300008: Selin_lower_teeth
+    2300010: Selin_Pant
+    2300012: Selin_Shoes_l
+    2300014: Selin_Shoes_r
+    2300016: Selin_Tshirt
+    2300018: Selin_upper_teeth
+    3300000: Selin_Body_mesh
+    3300002: Selin_Eyeball_l
+    3300004: Selin_Eyeball_r
+    3300006: Selin_Hair_mesh
+    3300008: Selin_lower_teeth
+    3300010: Selin_Pant
+    3300012: Selin_Shoes_l
+    3300014: Selin_Shoes_r
+    3300016: Selin_Tshirt
+    3300018: Selin_upper_teeth
+    4300000: Selin_Eyeball_l
+    4300002: Selin_Eyeball_r
+    4300004: Selin_Hair_mesh
+    4300006: Selin_Body_mesh
+    4300008: Selin_Tshirt
+    4300010: Selin_Pant
+    4300012: Selin_Shoes_r
+    4300014: Selin_Shoes_l
+    4300016: Selin_upper_teeth
+    4300018: Selin_lower_teeth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Body
+    second: {fileID: 2100000, guid: 2761bacdc68cdc74cb991d78032152d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Cloth
+    second: {fileID: 2100000, guid: a7ab3cc3039349d4baea8780b344075a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Eyeball
+    second: {fileID: 2100000, guid: b0a37e8356a579f459eee3a9b0e5a2cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Hair
+    second: {fileID: 2100000, guid: e19149c00b909fb41a9f646c5b7d2d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Inner_mouth
+    second: {fileID: 2100000, guid: 098672aa3e318054dad860dfb5127524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selin_Shoe
+    second: {fileID: 2100000, guid: 327afb0bd2f33cb49b3b3f35c70c7705, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

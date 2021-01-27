@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: fd9ac4056a6b9924ba27ccf2016ffae0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Leon_Body_Mesh
+    100004: Leon_Body_mesh
+    100006: Leon_Eye
+    100008: Leon_Eyeball_l
+    100010: Leon_Eyeball_r
+    100012: Leon_Eyelash_l
+    100014: Leon_Eyelash_r
+    100016: Leon_Hair
+    100018: Leon_Inner_Mouth
+    100020: Leon_lower_teeth
+    100022: Leon_Pant_Mesh
+    100024: leon_shoes_l
+    100026: leon_shoes_r
+    100028: Leon_Tshirt_mesh
+    100030: Leon_upper_teeth
+    100032: polySurface3
+    100034: polySurface7
+    100036: Shoes_Mesh
+    400000: //RootNode
+    400002: Leon_Body_Mesh
+    400004: Leon_Body_mesh
+    400006: Leon_Eye
+    400008: Leon_Eyeball_l
+    400010: Leon_Eyeball_r
+    400012: Leon_Eyelash_l
+    400014: Leon_Eyelash_r
+    400016: Leon_Hair
+    400018: Leon_Inner_Mouth
+    400020: Leon_lower_teeth
+    400022: Leon_Pant_Mesh
+    400024: leon_shoes_l
+    400026: leon_shoes_r
+    400028: Leon_Tshirt_mesh
+    400030: Leon_upper_teeth
+    400032: polySurface3
+    400034: polySurface7
+    400036: Shoes_Mesh
+    2100000: Leon_Eyelashes
+    2100002: Leon_Hair_Lower
+    2100004: Leon_Hair_Upper
+    2100006: Leon_Body
+    2100008: Leon_shoes
+    2100010: Leon_Tshirt
+    2100012: Leon_Pant
+    2100014: Leon_Eyeball
+    2100016: Leon_Inner_mouth
+    2300000: Leon_Body_Mesh
+    2300002: Leon_Eyeball_l
+    2300004: Leon_Eyeball_r
+    2300006: Leon_Eyelash_l
+    2300008: Leon_Eyelash_r
+    2300010: Leon_Hair
+    2300012: Leon_lower_teeth
+    2300014: Leon_Pant_Mesh
+    2300016: leon_shoes_l
+    2300018: leon_shoes_r
+    2300020: Leon_Tshirt_mesh
+    2300022: Leon_upper_teeth
+    2300024: polySurface3
+    2300026: polySurface7
+    3300000: Leon_Body_Mesh
+    3300002: Leon_Eyeball_l
+    3300004: Leon_Eyeball_r
+    3300006: Leon_Eyelash_l
+    3300008: Leon_Eyelash_r
+    3300010: Leon_Hair
+    3300012: Leon_lower_teeth
+    3300014: Leon_Pant_Mesh
+    3300016: leon_shoes_l
+    3300018: leon_shoes_r
+    3300020: Leon_Tshirt_mesh
+    3300022: Leon_upper_teeth
+    3300024: polySurface3
+    3300026: polySurface7
+    4300000: Leon_Eyelash_r
+    4300002: Leon_Eyelash_l
+    4300004: Leon_Hair
+    4300006: Leon_Body_Mesh
+    4300008: leon_shoes_l
+    4300010: leon_shoes_r
+    4300012: Leon_Tshirt_mesh
+    4300014: Leon_Pant_Mesh
+    4300016: polySurface3
+    4300018: polySurface7
+    4300020: Leon_Eyeball_r
+    4300022: Leon_Eyeball_l
+    4300024: Leon_upper_teeth
+    4300026: Leon_lower_teeth
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Body
+    second: {fileID: 2100000, guid: 699bf8b826a150a489f0af86a03ea398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Eyeball
+    second: {fileID: 2100000, guid: bcf48e66c73e5b746b5d4bc15cf449f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Eyelashes
+    second: {fileID: 2100000, guid: 9981468b7f7fd3a4ea02fa831787d51f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Hair_Lower
+    second: {fileID: 2100000, guid: c865545350089cf4887d089e333075a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Hair_Upper
+    second: {fileID: 2100000, guid: 432e37cdab9aee5418e3f9efeb4b5df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Inner_mouth
+    second: {fileID: 2100000, guid: 4e90b598e93565b4799a45a05aa7ea75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Pant
+    second: {fileID: 2100000, guid: dcb0e7bb97f67314da83df90c345dc57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_Tshirt
+    second: {fileID: 2100000, guid: dd79ed51162acca42bb17b8d2fb94f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leon_shoes
+    second: {fileID: 2100000, guid: c8eec665906f26a48a49029a4d912ac9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

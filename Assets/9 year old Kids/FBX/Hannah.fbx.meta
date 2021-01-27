@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 70a624837076cf84c846d51140ae4276
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cloths
+    100002: //RootNode
+    100004: Hannah_Body_Mesh
+    100006: Hannah_eye_corner_Mesh
+    100008: Hannah_eyeball_Mesh
+    100010: Hannah_eyelash_l_Mesh
+    100012: Hannah_eyelash_r_Mesh
+    100014: Hannah_face_Mesh
+    100016: Hannah_Hair_Mesh
+    100018: Hannah_lower_teeth
+    100020: Hannah_shoes_l_Mesh
+    100022: Hannah_shoes_r_Mesh
+    100024: Hannah_short_Mesh
+    100026: Hannah_top_Mesh
+    100028: Hannah_upper_teeth
+    100030: Mouth
+    400000: cloths
+    400002: //RootNode
+    400004: Hannah_Body_Mesh
+    400006: Hannah_eye_corner_Mesh
+    400008: Hannah_eyeball_Mesh
+    400010: Hannah_eyelash_l_Mesh
+    400012: Hannah_eyelash_r_Mesh
+    400014: Hannah_face_Mesh
+    400016: Hannah_Hair_Mesh
+    400018: Hannah_lower_teeth
+    400020: Hannah_shoes_l_Mesh
+    400022: Hannah_shoes_r_Mesh
+    400024: Hannah_short_Mesh
+    400026: Hannah_top_Mesh
+    400028: Hannah_upper_teeth
+    400030: Mouth
+    2100000: Hannah_Inner_mouth
+    2100002: Hannah_Short
+    2100004: Hannah_Tshirt
+    2100006: Hannah_Hair
+    2100008: Hannah_Eyeball
+    2100010: Hannah_Eyelashes
+    2100012: Hannah_Body
+    2100014: Hannah_shoes
+    2300000: Hannah_Body_Mesh
+    2300002: Hannah_eye_corner_Mesh
+    2300004: Hannah_eyeball_Mesh
+    2300006: Hannah_eyelash_l_Mesh
+    2300008: Hannah_eyelash_r_Mesh
+    2300010: Hannah_face_Mesh
+    2300012: Hannah_Hair_Mesh
+    2300014: Hannah_lower_teeth
+    2300016: Hannah_shoes_l_Mesh
+    2300018: Hannah_shoes_r_Mesh
+    2300020: Hannah_short_Mesh
+    2300022: Hannah_top_Mesh
+    2300024: Hannah_upper_teeth
+    3300000: Hannah_Body_Mesh
+    3300002: Hannah_eye_corner_Mesh
+    3300004: Hannah_eyeball_Mesh
+    3300006: Hannah_eyelash_l_Mesh
+    3300008: Hannah_eyelash_r_Mesh
+    3300010: Hannah_face_Mesh
+    3300012: Hannah_Hair_Mesh
+    3300014: Hannah_lower_teeth
+    3300016: Hannah_shoes_l_Mesh
+    3300018: Hannah_shoes_r_Mesh
+    3300020: Hannah_short_Mesh
+    3300022: Hannah_top_Mesh
+    3300024: Hannah_upper_teeth
+    4300000: Hannah_lower_teeth
+    4300002: Hannah_upper_teeth
+    4300004: Hannah_short_Mesh
+    4300006: Hannah_top_Mesh
+    4300008: Hannah_Hair_Mesh
+    4300010: Hannah_eyeball_Mesh
+    4300012: Hannah_eyelash_l_Mesh
+    4300014: Hannah_face_Mesh
+    4300016: Hannah_Body_Mesh
+    4300018: Hannah_shoes_r_Mesh
+    4300020: Hannah_eye_corner_Mesh
+    4300022: Hannah_shoes_l_Mesh
+    4300024: Hannah_eyelash_r_Mesh
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Body
+    second: {fileID: 2100000, guid: 00673896fb19b0b47976e60384aa9bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Eyeball
+    second: {fileID: 2100000, guid: 305d3454ecefe3a4ebd7041a1d221de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Eyelashes
+    second: {fileID: 2100000, guid: 939d643f653a6c44394b08b270b7fcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Hair
+    second: {fileID: 2100000, guid: 669be2f56b8b23b4685a0efe1ef0d0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Inner_mouth
+    second: {fileID: 2100000, guid: 1584ad5bff81c6245b4a87315166a5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Short
+    second: {fileID: 2100000, guid: 75fdd8322d749064e8bd722b87aa59cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_Tshirt
+    second: {fileID: 2100000, guid: f65319e2c3af99a428e4c9cb20936b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hannah_shoes
+    second: {fileID: 2100000, guid: 28e0925bef20a204f8fdd9425fa3d604, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
